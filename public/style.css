@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <title>Jeff Macks</title>
+
+    <meta name="description" content="The personal webpage of Boris Patent." />
+    <meta name="robots" content="index,nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+    <div class="main-content">
+        <h1 class="main-header">Boris Patent</h1>
+        <h2 class="sub-header">Welcome to the personal website of Boris Patent</h2>
+
+        <h3 class="link-nav-header">a bit more about Boris Patent</h3>
+        <ul>
+        <li class="navlink"><a>Bio</a><li>
+        <li class="navlink"><a>Blog</a><li>
+        </ul>
+    </div>
+    <script type="text/javascript" src="script.js" />
+  </body>
+</html>
