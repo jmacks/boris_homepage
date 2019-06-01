@@ -9,5 +9,5 @@ app.use('/scripts', express.static(__dirname + '/node_modules'));
 app.use(routes);
 
 const server = app.listen(process.env.PORT || 2323, () => {
-    console.log("me runno on a port 2323");
+    console.log("app server running");
 });
